@@ -8,8 +8,8 @@ Include MKS Robin E3 and MKS Robin E3D two motherboard. Both motherboards are co
 - Pluggable drive interface
 
 ## Related tutorials and Notice
-- Robin E3 User Manual.[click here]()
-- Robin E3D User Manual.[click here]()
+- Robin E3 User Manual.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3-V1.0-User-Manual)
+- Robin E3D User Manual.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3D-V1.0-User-Manual)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware 
