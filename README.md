@@ -1,8 +1,8 @@
 # MKS-Robin-E3-E3D
-Include MKS Robin E3 and MKS Robin E3D two motherboard. Both motherboards are compatible with Ender3 machines, CR-10 machines
+Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are compatible with Ender3 machines and CR-10/CR10S machines
 
 ## MKS Robin E3
-- Integrated TMC2209 UART Mode, Support SENSORLESS_HOMING (If you need use this function, you need connect DIAG by Shorting cap)
+- Integrated 4 TMC2209 dirvers on board, easy to use UART Mode and SENSORLESS_HOMING (If you need use this function, you just need to connect DIAG by Shorting cap)
 
 ## MKS Robin E3D
 - Pluggable drive interface
