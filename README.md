@@ -5,7 +5,7 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 - Integrated 4 TMC2209 dirvers on board, easy to use UART Mode and SENSORLESS_HOMING (If you need use this function, you just need to connect DIAG by Shorting cap)
 
 ## MKS Robin E3D
-- Pluggable drive interface
+- Pluggable drive interface, you can choose A4988/TMC2208/TMC2209,eg
 
 ## Related tutorials and Notice
 - Robin E3 User Manual.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3-V1.0-User-Manual)
