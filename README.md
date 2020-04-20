@@ -10,7 +10,7 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 ## Related tutorials and Notice
 - Robin E3 User Manual. [click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3-V1.0-User-Manual)
 - Robin E3D User Manual. [click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3D-V1.0-User-Manual)
-- Robin E3D description. [click here](ttps://youtu.be/_x1TzdqGZdo)
+- Robin E3D description. [click here](https://youtu.be/_x1TzdqGZdo)
 - Use MKS TMC2209 V2.0 uart mode SENSORLESS_HOMING function. [click here](https://www.youtube.com/watch?v=vSgcH2wjCwY&tdsourcetag=s_pctim_aiomsg)
 - Welcome to follow us on Facebook to learn about the company's latest developments. [click here](https://www.facebook.com/Makerbase.mks/)
 
