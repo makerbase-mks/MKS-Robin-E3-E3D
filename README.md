@@ -14,7 +14,7 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 - Welcome to follow us on Facebook to learn about the company's latest developments. [click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware 
-- Support Marlin 2.0
+- Support Marlin 2.0 [click here download](https://codeload.github.com/MarlinFirmware/Marlin/zip/bugfix-2.0.x)
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
