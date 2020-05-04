@@ -60,28 +60,28 @@
 #define X_DIR_PIN          PB2
 #define X_ENABLE_PIN       PC13
 #ifndef X_CS_PIN
-  #define X_CS_PIN         PC7
+  #define X_CS_PIN         PD5
 #endif
 
 #define Y_STEP_PIN         PC2
 #define Y_DIR_PIN          PB9
 #define Y_ENABLE_PIN       PB12
 #ifndef Y_CS_PIN
-  #define Y_CS_PIN         PD2
+  #define Y_CS_PIN         PD7
 #endif
 
 #define Z_STEP_PIN         PB7
 #define Z_DIR_PIN          PB6
 #define Z_ENABLE_PIN       PB8
 #ifndef Z_CS_PIN
-  #define Z_CS_PIN         PC12
+  #define Z_CS_PIN         PD4
 #endif
 
 #define E0_STEP_PIN        PB4
 #define E0_DIR_PIN         PB3
 #define E0_ENABLE_PIN      PB5
 #ifndef E0_CS_PIN
-  #define E0_CS_PIN        PC11
+  #define E0_CS_PIN        PD9
 #endif
 
 //
@@ -89,13 +89,13 @@
 //
 #if ENABLED(TMC_USE_SW_SPI)
   #ifndef TMC_SW_MOSI
-    #define TMC_SW_MOSI    PB15
+    #define TMC_SW_MOSI    PD14
   #endif
   #ifndef TMC_SW_MISO
-    #define TMC_SW_MISO    PB14
+    #define TMC_SW_MISO    PD1
   #endif
   #ifndef TMC_SW_SCK
-    #define TMC_SW_SCK     PB13
+    #define TMC_SW_SCK     PD0
   #endif
 #endif
 
