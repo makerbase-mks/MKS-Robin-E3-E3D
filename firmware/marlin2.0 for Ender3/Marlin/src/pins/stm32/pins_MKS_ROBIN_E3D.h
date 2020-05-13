@@ -89,13 +89,13 @@
 //
 #if ENABLED(TMC_USE_SW_SPI)
   #ifndef TMC_SW_MOSI
-    #define TMC_SW_MOSI    PD14
+    #define TMC_SW_MOSI    PB15
   #endif
   #ifndef TMC_SW_MISO
-    #define TMC_SW_MISO    PD1
+    #define TMC_SW_MISO    PB14
   #endif
   #ifndef TMC_SW_SCK
-    #define TMC_SW_SCK     PD0
+    #define TMC_SW_SCK     PB13
   #endif
 #endif
 
