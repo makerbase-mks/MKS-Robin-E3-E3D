@@ -72,6 +72,17 @@
 #define E0_DIR_PIN         PB3
 #define E0_ENABLE_PIN      PB5
 
+//
+// Power Supply Control
+//
+#ifndef PS_ON_PIN
+  #define PS_ON_PIN        PC5//LCD_D7     //PW_OFF, you need change it to other pin
+#endif
+#ifndef KILL_PIN
+  #define KILL_PIN          PB10    //PW_DET, you need change it to other pin
+#endif
+#define KILL_PIN_INVERTING  true  //true : HIGH level trigger
+
 #if HAS_TMC220x
   /**
    * TMC2208/TMC2209 stepper drivers
