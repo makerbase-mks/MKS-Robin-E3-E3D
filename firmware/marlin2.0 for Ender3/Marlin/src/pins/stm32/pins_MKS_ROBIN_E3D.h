@@ -87,13 +87,15 @@
 //
 // Power Supply Control
 //
-#ifndef PS_ON_PIN
-  #define PS_ON_PIN        PC5//LCD_D7     //PW_OFF, you need change it to other pin
+#if ENABLED(PSU_CONTROL)
+  #ifndef PS_ON_PIN
+    #define PS_ON_PIN        PC5//LCD_D7     //PW_OFF, you need change it to other pin
+  #endif
+  #ifndef KILL_PIN
+    #define KILL_PIN          PB10    //PW_DET, you need change it to other pin
+  #endif
+  #define KILL_PIN_INVERTING  true  //true : HIGH level trigger
 #endif
-#ifndef KILL_PIN
-  #define KILL_PIN          PB10    //PW_DET, you need change it to other pin
-#endif
-#define KILL_PIN_INVERTING  true  //true : HIGH level trigger
 
 //
 // Software SPI pins for TMC2130 stepper drivers
