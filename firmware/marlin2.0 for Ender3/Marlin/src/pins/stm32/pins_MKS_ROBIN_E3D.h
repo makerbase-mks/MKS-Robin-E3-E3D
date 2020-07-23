@@ -41,6 +41,16 @@
 #define ENABLE_SPI2
 
 //
+// EEPROM
+//
+#if EITHER(NO_EEPROM_SELECTED, FLASH_EEPROM_EMULATION)
+  #define FLASH_EEPROM_EMULATION
+  #define EEPROM_PAGE_SIZE     (0x800U) // 2KB
+  #define EEPROM_START_ADDRESS (0x8000000UL + (STM32_FLASH_SIZE) * 1024UL - (EEPROM_PAGE_SIZE) * 2UL)
+  #define MARLIN_EEPROM_SIZE   EEPROM_PAGE_SIZE  // 2KB
+#endif
+
+//
 // Servos
 //
 #define SERVO0_PIN         PA3
@@ -60,28 +70,28 @@
 #define X_DIR_PIN          PB2
 #define X_ENABLE_PIN       PC13
 #ifndef X_CS_PIN
-  #define X_CS_PIN         PD5
+  #define X_CS_PIN                          PC7
 #endif
 
 #define Y_STEP_PIN         PC2
 #define Y_DIR_PIN          PB9
 #define Y_ENABLE_PIN       PB12
 #ifndef Y_CS_PIN
-  #define Y_CS_PIN         PD7
+  #define Y_CS_PIN                          PD2
 #endif
 
 #define Z_STEP_PIN         PB7
 #define Z_DIR_PIN          PB6
 #define Z_ENABLE_PIN       PB8
 #ifndef Z_CS_PIN
-  #define Z_CS_PIN         PD4
+  #define Z_CS_PIN                          PC12
 #endif
 
 #define E0_STEP_PIN        PB4
 #define E0_DIR_PIN         PB3
 #define E0_ENABLE_PIN      PB5
 #ifndef E0_CS_PIN
-  #define E0_CS_PIN        PD9
+  #define E0_CS_PIN        PC11
 #endif
 
 //
