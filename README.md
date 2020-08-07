@@ -8,8 +8,7 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 - Pluggable drive interface, you can choose A4988/TMC2208/TMC2209,eg
 
 ## Related tutorials and Notice
-- Robin E3 User Manual. [click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3-V1.0-User-Manual)
-- Robin E3D User Manual. [click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/MKS-Robin-E3D-V1.0-User-Manual)
+- Robin E3 E3D User Manual. You can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki)
 - Robin E3D description. [click here](https://www.youtube.com/watch?v=_x1TzdqGZdo&feature=youtu.be&tdsourcetag=s_pctim_aiomsg)
 - Use MKS TMC2209 V2.0 uart mode SENSORLESS_HOMING function. [click here](https://www.youtube.com/watch?v=vSgcH2wjCwY&tdsourcetag=s_pctim_aiomsg)
 - Thank you very much for ruiraptor's introduction about Robin E3/E3D board. [click here](https://www.youtube.com/watch?v=k9A8JYxBvqE)
