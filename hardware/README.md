@@ -13,3 +13,7 @@
   - Add support AT24C32D eeprom on the board
   - Optimize USB package design
   - Optimize PCB layout design
+  
+20210325
+- MKS Robin E3 V1.1_004
+  - Optimize TMC2209(QFN-28) packages
