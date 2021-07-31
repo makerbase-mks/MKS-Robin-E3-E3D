@@ -11,6 +11,7 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 
 ## Firmware 
 - Support Marlin 2.0 
+- Robin E3/E3D has supported klipper firmware. For details, please refer to:https://github.com/makerbase-mks/Klipper-for-MKS-Boards
 
 ## How to buy
 - MKS Robin E3/E3D on Aliexpress  [MKS Robin E3/E3D](https://www.aliexpress.com/item/4000781744682.html)
