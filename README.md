@@ -2,6 +2,7 @@
 Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are compatible with Ender3 machines and CR-10/CR10S machines
 - MKS Robin E3 integrated 4 TMC2209 dirvers on board.
 - MKS Robin E3D has pluggable drive interface, support A4988/TMC2208/TMC2209 and so on.
+- Support [MKS MINI12864 V3](https://makerbase.aliexpress.com/store/group/LCD/1047297_516922172.html), MKS TFTxx, MKS LCD12864B, LCD12864, LCD2004
 
 ## Related tutorials and Notice
 - Robin E3 E3D User Manual. You can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki)
