@@ -3,6 +3,7 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 - MKS Robin E3 integrated 4 TMC2209 dirvers on board.
 - MKS Robin E3D has pluggable drive interface, support A4988/TMC2208/TMC2209 and so on.
 - Support [MKS MINI12864 V3](https://makerbase.aliexpress.com/store/group/LCD/1047297_516922172.html), MKS TFTxx, MKS LCD12864B, LCD12864, LCD2004
+- Support [MKS PWC V3](https://www.aliexpress.com/item/32853300039.html), you can refer to Wiki
 
 ## Related tutorials and Notice
 - Robin E3 E3D User Manual. You can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki)
