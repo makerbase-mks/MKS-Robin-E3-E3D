@@ -5,6 +5,14 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 - Support [MKS MINI12864 V3](https://makerbase.aliexpress.com/store/group/LCD/1047297_516922172.html), MKS TFTxx, MKS LCD12864B, LCD12864, LCD2004
 - Support [MKS PWC V3](https://www.aliexpress.com/item/32853300039.html), you can refer to Wiki
 
+## Compare between E3/E3D V1.0 and V1.1
+| ITEMS      |  E3/E3D V1.0  | E3/E3D V1.1 |
+|------------|--------------------|--------------------|
+| Z STEP signal | PB7 | PC14 |
+| Z DIR signal | PB6 | PC15 |
+| EEPROM | No support(save eeprom data by flash) | On board 4K |
+| Board set | BOARD_MKS_ROBIN_E3, BOARD_MKS_ROBIN_E3D | BOARD_MKS_ROBIN_E3_V1_1, BOARD_MKS_ROBIN_E3D_V1_1 |
+
 ## Related tutorials and Notice
 - Robin E3 E3D User Manual. You can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki)
 - Robin E3D description. [click here](https://www.youtube.com/watch?v=_x1TzdqGZdo&feature=youtu.be&tdsourcetag=s_pctim_aiomsg)
