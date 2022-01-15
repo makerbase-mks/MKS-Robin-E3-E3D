@@ -30,4 +30,5 @@ Include MKS Robin E3 and MKS Robin E3D two motherboards. Both motherboards are c
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
 - For more product dynamic information and tutorial materials, you can always follow MKS's Facebook and GitHub and YouTube. Thank you!
-![](https://github.com/makerbase-mks/MKS-Robin-Nano/blob/master/hardware/Image/MKS_FGA.png)
+
+![mks_link](https://user-images.githubusercontent.com/12979070/149611613-c0288d8a-7e21-4163-b53e-fdc54c66bbef.png)
